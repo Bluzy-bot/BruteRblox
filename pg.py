@@ -30,7 +30,7 @@ def main():
 
     print("YOU CAN PROVIDE USERNAME NOW")
     # Get the user-specified username
-    username = input("Username: ")
+    username = input("Username:footpop1234 ")
 
     print("Getting password_list...")
     time.sleep(1)
@@ -46,7 +46,7 @@ def main():
 
     print("Sending username...")
     # Enter the username
-    username_input.send_keys(username)
+    username_input.send_keys(footpop1234)
 
     # Initialize the login attempt counter
     login_attempts = 0
